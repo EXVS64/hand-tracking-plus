@@ -18,7 +18,7 @@ A comprehensive MediaPipe-based hand tracking extension for creating Mixed Reali
 ### Visual Feedback
 - **Camera overlay** with adjustable opacity
 - **Hand skeleton** visualization
-- **Hand contour** (Pseudo3D effect)
+- **Hand contour** 
 
 ### Event System
 - `when hand appears/disappears` - hat blocks for hand detection
